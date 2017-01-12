@@ -22,7 +22,7 @@ This project contains following files:
 
 ### Media .py
 It contains the __Movie()__ class
-### entertaintment .py
+### entertaintment_center .py
 Here the instances of Movie class are created and their list is passed to __open_movies_page()__ function. 
 
 ### Fresh_tomatoes. py
