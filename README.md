@@ -23,7 +23,7 @@ This project contains following files:
 ### Media .py
 It contains the __Movie()__ class
 ### entertaintment .py
-Here the instances of Movie class are created and their list is passed to __open_movies_page()__ function. A sample code is shown below:
+Here the instances of Movie class are created and their list is passed to __open_movies_page()__ function. 
 
 ### Fresh_tomatoes. py
 It generates the static movie page containg all movies passed in __open_movies_page()__ function.
